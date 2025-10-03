@@ -1,1 +1,3 @@
 # Circular-Array-Rotation-Algo
+
+This C++ code sets up the solution for the Circular Array Rotation problem, where an array a is rotated to the right k times, and values at specific indices (provided in queries) are retrieved and returned. The main function handles input parsing: it reads the size of the array n, the number of rotations k, the number of queries q, the array elements, and the query indices. The actual logic to perform the rotation and answer the queries is to be implemented in the circularArrayRotation function, which returns a vector of integers as results. Helper functions ltrim, rtrim, and split are used to clean and process the input strings effectively.
